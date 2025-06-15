@@ -1,4 +1,8 @@
 # my-repo
+
+## 👀 Profile Views  
+[![Profile Views](https://komarev.com/ghpvc/?username=dhanwantanishka&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dhanwantanishka)
+
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhanwantanishka&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanwantanishka&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
